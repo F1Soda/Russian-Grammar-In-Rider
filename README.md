@@ -1,6 +1,6 @@
 # Устанавливаем славянскую грамматику в Rider
 
-1. Заходим на сайт [WinEdt Unicode Dictionaries](https://www.winedt.org/dict.html).
+1. Заходим на сайт [WinEdt Unicode Dictionaries](https://www.winedt.org/dict.html) или скачиваем файлы в репе в папке dictionaries.
 2. Качаем пак 
     
     ![Untitled](images/Untitled.png)
